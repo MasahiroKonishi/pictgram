@@ -79,3 +79,6 @@ gem "jquery-rails"
 
 # 追加 pictgram プロジェクト
 gem 'bcrypt'
+
+# 追加 画像投稿機能
+gem "carrierwave"
